@@ -1,0 +1,4 @@
+name: CRespawn
+main: net.mchel.plugin.crespawn.CRespawn
+version: 0.0.1
+author: Chelcy
